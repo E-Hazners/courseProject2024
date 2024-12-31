@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customers>
+    <customer>
+        <id>C3</id>
+        <name>Ed</name>
+        <balance>1357.0</balance>
+    </customer>
+    <customer>
+        <id>C1</id>
+        <name>Edijs Ozoliņš</name>
+        <balance>222.0</balance>
+    </customer>
+    <customer>
+        <id>C2</id>
+        <name>Jānis Lācis</name>
+        <balance>10.0</balance>
+    </customer>
+</customers>
